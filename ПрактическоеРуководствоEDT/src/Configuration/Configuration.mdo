@@ -39,5 +39,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <constants>Constant.Константа</constants>
+  <constants>Constant.НазваниеОрганизации</constants>
 </mdclass:Configuration>
